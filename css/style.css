@@ -1,0 +1,71 @@
+
+/*@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+*/
+
+/*css box model*/
+
+/* section #1 */
+
+.container-wraper {
+	width: 1088px;
+	margin: 0 auto ;
+	/*background: grey;*/
+}
+.font-poppins {
+	font-family: Poppins;
+}
+
+.left-block {
+	width: 536px;
+	background: #F8F8F8;
+	display: inline-block;
+	margin-right: 16px;
+}
+
+.right-block{
+	width: 536px;
+	background: #BE2B2B;
+	display: inline-block;
+}
+
+.text-block {
+	display: inline-block;
+	width: 260px;
+	vertical-align: middle;
+}
+
+.image-block{
+	vertical-align: middle ;
+}
+
+.container-title{
+	font-family: 'Poppins';
+}
+
+/*section#2*/
+
+.block1 {
+	width: 352px;
+	background: #F8F8F8;
+	display: inline-block;
+	margin-right: 16px;
+
+}
+.block2 {
+	width: 352px;
+	background: #F8F8F8;
+	display: inline-block;
+	margin-right: 16px;
+}
+.block3 {
+	width: 352px;
+	background: #F8F8F8;
+	display: inline-block;
+
+}
+.block-text{
+	width: 260px;
+	margin:  0 auto;
+	text-align: center;
+
+}
