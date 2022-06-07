@@ -9,9 +9,47 @@
 .container-wraper {
 	width: 1088px;
 	margin: 0 auto ;
+	margin-top: 82px;
 	/*background: grey;*/
 }
-.font-poppins {
+.container-title {
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	margin-bottom: 5px;
+}
+.text-1 {
+	/*margin-bottom: 50px;*/
+	font-size: 42px;
+	font-weight: extrabold;
+	width: 498px;
+	/*line-height: 50px;*/
+}
+.food {
+	font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	/*padding-top: 35px;*/
+	/*line-height: 25px;*/
+
+}
+.fresh-fish {
+	font-size: 18px;
+	font-weight: semibold;
+	color: #000000;
+	margin-bottom: 10px;
+	/*line-height: 25px;*/
+
+}
+.fresh-food {
+	font-size: 14px;
+	font-weight: medium;
+	color: #B1B1B1;
+	margin-bottom: 36px;
+	letter-spacing:1px
+}
+.First-block {
 	font-family: Poppins;
 }
 
@@ -28,19 +66,36 @@
 	display: inline-block;
 }
 
+.desert{
+    font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	/*padding-top: 35px;*/
+
+}
+
+.Chocolate{
+	font-size: 18px;
+	font-weight: semibold;
+	color: #000000;
+	margin-bottom: 10px;
+}
+.fresh-food-2{
+    font-size: 14px;
+	font-weight: medium;
+	color: #B1B1B1;
+	letter-spacing:1px
+}
 .text-block {
 	display: inline-block;
 	width: 260px;
-	vertical-align: middle;
 }
 
 .image-block{
 	vertical-align: middle ;
 }
 
-.container-title{
-	font-family: 'Poppins';
-}
+
 
 /*section#2*/
 
