@@ -1,57 +1,31 @@
 
-/*@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
-*/
-
-/*css box model*/
-
 /* section #1 */
+
+.top-block {
+	font-family: Poppins;
+}
 
 .container-wraper {
 	width: 1088px;
 	margin: 0 auto ;
 	margin-top: 82px;
-	/*background: grey;*/
-}
-.container-title {
 	font-family: 'Poppins';
+}
+
+.container-title-1 {
 	font-size: 14px;
 	font-weight: bold;
 	color: #5863F8;
-	margin-bottom: 5px;
+	margin-bottom: 1px;
 }
 .text-1 {
-	/*margin-bottom: 50px;*/
+	margin-bottom: 50px;
 	font-size: 42px;
 	font-weight: extrabold;
 	width: 498px;
-	/*line-height: 50px;*/
-}
-.food {
-	font-size: 14px;
-	font-weight: bold;
-	color: #5863F8;
-	/*padding-top: 35px;*/
-	/*line-height: 25px;*/
-
-}
-.fresh-fish {
-	font-size: 18px;
-	font-weight: semibold;
-	color: #000000;
-	margin-bottom: 10px;
-	/*line-height: 25px;*/
-
-}
-.fresh-food {
-	font-size: 14px;
-	font-weight: medium;
-	color: #B1B1B1;
-	margin-bottom: 36px;
-	letter-spacing:1px
-}
-.First-block {
-	font-family: Poppins;
-}
+	line-height: 1.2;
+	letter-spacing: 1.1px;
+	}
 
 .left-block {
 	width: 536px;
@@ -66,6 +40,48 @@
 	display: inline-block;
 }
 
+.image-block{
+	vertical-align: middle ;
+}
+
+.text-block {
+	display: inline-block;
+	width: 260px;
+	text-align: left;
+	/*margin: 0 auto;*/
+}
+
+.food {
+	font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	height: 20px;
+	margin-left: 16px;
+	/*margin-top: 37px;*/
+	/*line-height: 25px;*/
+
+}
+.fresh-fish {
+	font-size: 18px;
+	font-weight: semibold;
+	color: #000000;
+	margin-bottom: 10px;
+	margin-left: 16px;
+	/*line-height: 25px;*/
+
+}
+.fresh-food {
+	font-size: 14px;
+	width: 260px;
+	/*height: 60px;*/
+	font-weight: medium;
+	color: #B1B1B1;
+	margin-bottom: 36px;
+	margin-left: 16px;
+	letter-spacing:1px
+}
+
+ 
 .desert{
     font-size: 14px;
 	font-weight: bold;
@@ -86,24 +102,42 @@
 	color: #B1B1B1;
 	letter-spacing:1px
 }
-.text-block {
-	display: inline-block;
-	width: 260px;
-}
-
-.image-block{
-	vertical-align: middle ;
-}
+ 
 
 
 
 /*section#2*/
 
+.container-title2{
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	margin-top: 102px;
+	margin-bottom: 0px;
+}
+.text-2{
+	width: 465px;
+	margin-bottom: 65px;
+	font-size: 42px;
+	font-family: 'Poppins';
+	font-weight: extrabold;
+	 
+}
 .block1 {
 	width: 352px;
 	background: #F8F8F8;
 	display: inline-block;
 	margin-right: 16px;
+
+}
+.food-and-life{
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: bold;
+	color: #5863F8;
+	/*margin-top: 23px;*/
+	margin-bottom: 5px;
 
 }
 .block2 {
